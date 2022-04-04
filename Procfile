@@ -1,0 +1,1 @@
+worker: sh isabela.sh
